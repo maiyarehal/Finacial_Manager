@@ -45,7 +45,7 @@ Ca$hKeeper is a personal finance management application designed to simplify the
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://gitlab.com/cs-department-ecu/csci-3030-softeware-engineering-i-fall-2024/financial-manager/financial-manager/-/tree/main
+   git clone https://github.com/maiyarehal/Finacial_Manager
     ```
 2. **Set Up Frontend**:
     ```
