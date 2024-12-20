@@ -1,4 +1,4 @@
-# Ca$hKeeper
+# Ca$hKeeper - Financial Manager 
 
 Ca$hKeeper is a personal finance management application designed to simplify the process of tracking income, expenses, and budgets. It helps users organize their finances, set financial goals, and make informed decisions.
 
